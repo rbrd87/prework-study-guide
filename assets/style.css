@@ -32,6 +32,11 @@ p {
     font-size: 30px;
 }
 
+code {
+    font-size: 18px;
+    background-color: #dfdfdf;
+}
+
 .card {
     width: 80%;
     margin: 40px auto;
